@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.VorobevSA.Sрrint2.Task0.V22.Lib\Tyuiu.VorobevSA.Sрrint2.Task0.V22.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.VorobevSA.Sprint2.Task0.V22.Lib\Tyuiu.VorobevSA.Sprint2.Task0.V22.Lib.csproj">
       <Project>{4683f95d-3c5a-4e4f-8815-bbf8085f4e85}</Project>
-      <Name>Tyuiu.VorobevSA.Sрrint2.Task0.V22.Lib</Name>
+      <Name>Tyuiu.VorobevSA.Sprint2.Task0.V22.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
